@@ -85,7 +85,7 @@ for each [element I] in array:
   
 # Done, the final Array is [1] [3] [6] [8], in ascending order, the magic of Insertion Sort Algorithm
 # The same process is done for any Array
-# Note that the loop count is the Array length elevated to 2, in this case was 4^2 = 4 * 4 = 16, 16 steps was needed to order the array
+# Note that the loop count is the Array length raised to 2, in this case was 4^2 = 4 * 4 = 16, 16 steps was needed to order the array
 ```
 
 ### The output of `main.cpp`
