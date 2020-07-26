@@ -35,7 +35,7 @@ Element 1: 4
 Element 2: 5                                                                                                          
 Element 3: 12                                                                                                         
 Element 4: 12                                                                                                         
-Element 5: 23                                                                                                         
+Element 5: 23
 Element 6: 47                                                                                                         
 Element 7: 89
 ```
