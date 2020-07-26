@@ -14,3 +14,19 @@
 
 ## Contributing
 See how to contribute [in CONTRIBUTING.md](/CONTRIBUTING.md)
+
+<br>
+<br>
+<br>
+<br>
+
+<h2 align="center">
+  Open Source
+</h2>
+<p align="center">
+  <sub>Copyright © 2020-present, Laks Castro.</sub>
+</p>
+<p align="center">C++ Algorithms <a href="https://github.com/LaksCastro/cpp-algorithms/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
+<p align="center">
+  <img src="/assets/cpp-logo.png" width="35" />
+</p>
