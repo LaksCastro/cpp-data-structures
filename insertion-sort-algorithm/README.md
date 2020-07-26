@@ -88,15 +88,17 @@ for each [element I] in array:
 # Note that the loop count is the Array length elevated to 2, in this case was 4^2 = 4 * 4 = 16, 16 steps was needed to order the array
 ```
 
-### The Output of `main.cpp`
+### The output of `main.cpp`
 ```
 Raw Array:                                                                                                              
 Element 0: 3                                                                                                            
 Element 1: 6                                                                                                            
 Element 2: 1                                                                                                            
-Element 3: 8                                                                                                            
+Element 3: 8           
+
 Starting the sort with Insertion Sort Algorithm                                                                         
-Done, the sorted array is:                                                                                              
+Done, the sorted array is:
+
 Element 0: 1                                                                                                            
 Element 1: 3                                                                                                            
 Element 2: 6                                                                                                            
