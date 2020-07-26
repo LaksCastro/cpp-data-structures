@@ -5,7 +5,7 @@
   C++ Data Structures and Algorithms
 </h1>
 <p align="center">
-  Here you will found implementations of many Algorithms and Data Structures, each content will be in a distinct folder in this format: "Name of content" followed by your category (Data Structure, Algorithm or other)
+  Here you will found implementations of many Algorithms and Data Structures, each content will be in a distinct folder relative to its respective category
 </p>
 
 ## Table of Contents
