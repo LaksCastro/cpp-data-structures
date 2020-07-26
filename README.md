@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="/assets/cpp-logo.png" width="45">
+  <img align="center" src="/assets/cpp-logo.png" height="100">
 </p>
 <h1 align="center">
   C++ Data Structures and Algorithms
