@@ -25,19 +25,13 @@ void insertionSort(int *array) {
 
 int main() {
   int array[] = {3, 6, 1, 8};
-
   length = sizeof(array) / sizeof(array[0]);
 
   cout << "Raw Array: " << endl;
-
   printArray(array);
-
   cout << endl << "Starting the sort with Insertion Sort Algorithm" << endl;
-
   insertionSort(array);
-
   cout << "Done, the sorted array is: " << endl << endl;
-
   printArray(array);
 
   return 0;
